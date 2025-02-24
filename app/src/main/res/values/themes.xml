@@ -27,4 +27,9 @@
         <item name="colorOnSurface">@color/text_primary</item>
         <item name="android:statusBarColor">@color/primary</item>
     </style>
+
+    <style name="Theme.GarbageSortingAssistant" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
 </resources>

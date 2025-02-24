@@ -1,7 +1,7 @@
-package com.example.ljfl
+package com.example.garbage_sorting_assistant
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class LJFLApplication : Application() 
+class GarbageSortingApp : Application() 
